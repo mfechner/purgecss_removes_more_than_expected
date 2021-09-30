@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^16.10.2",
-    "http-server": "^13.0.2"
+    "http-server": "^13.0.2",
+    "purgecss": "^4.0.3"
   }
 }
