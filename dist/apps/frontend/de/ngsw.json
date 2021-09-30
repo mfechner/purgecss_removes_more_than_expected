@@ -1,0 +1,105 @@
+{
+  "configVersion": 1,
+  "timestamp": 1633012593567,
+  "index": "/de/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/de/40.42a3de6d7114b6845ae4.js",
+        "/de/612.b7e0846b19778e39c409.js",
+        "/de/favicon.ico",
+        "/de/index.html",
+        "/de/main.76c4bbed7066d6d2b553.js",
+        "/de/manifest.webmanifest",
+        "/de/polyfills.2879896bea64b7823e7f.js",
+        "/de/runtime.2dc03f4903146b3a7463.js",
+        "/de/styles.fcacb6e683b50be236a5.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/de/assets/icons/icon-128x128.png",
+        "/de/assets/icons/icon-144x144.png",
+        "/de/assets/icons/icon-152x152.png",
+        "/de/assets/icons/icon-192x192.png",
+        "/de/assets/icons/icon-384x384.png",
+        "/de/assets/icons/icon-512x512.png",
+        "/de/assets/icons/icon-72x72.png",
+        "/de/assets/icons/icon-96x96.png",
+        "/de/assets/images/auth_background-2xl.webp",
+        "/de/assets/images/auth_background-lg.webp",
+        "/de/assets/images/auth_background-md.webp",
+        "/de/assets/images/auth_background-sm.webp",
+        "/de/assets/images/auth_background-xl.webp",
+        "/de/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+        "/de/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+        "/de/fontawesome-webfont.8b43027f47b20503057d.eot",
+        "/de/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+        "/de/fontawesome-webfont.f691f37e57f04c152e23.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/de/40.42a3de6d7114b6845ae4.js": "4b23a3d6b9c6a25672cd1adbcd2cd6db849d4cbe",
+    "/de/612.b7e0846b19778e39c409.js": "905b0d96e77cd953d018af8e723ecdc53681c04d",
+    "/de/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/de/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/de/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/de/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/de/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/de/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/de/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/de/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/de/assets/images/auth_background-2xl.webp": "f98150a306a73d5f52128ba6825473fb010aaaff",
+    "/de/assets/images/auth_background-lg.webp": "ba833cb13ccbc29ca158b583162482daabd6e479",
+    "/de/assets/images/auth_background-md.webp": "0f2e63a353071a6a23fcfeab2ec59883895c069f",
+    "/de/assets/images/auth_background-sm.webp": "4f88301de22267a5402e3d10bcf58e25b196ce4f",
+    "/de/assets/images/auth_background-xl.webp": "5300bd60f03e857f53d90e39c2441fd7db5170a2",
+    "/de/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/de/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "/de/fontawesome-webfont.20fd1704ea223900efa9.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "/de/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "/de/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "/de/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "/de/index.html": "c8f1798b097f4000ddc463e15b77bf6de625b8ac",
+    "/de/main.76c4bbed7066d6d2b553.js": "9baf1f6295cfaba59d8734f82abe31690a6acb0f",
+    "/de/manifest.webmanifest": "f301cc1e416c478fa879b91df61fcf79752c3208",
+    "/de/polyfills.2879896bea64b7823e7f.js": "494e8cab15998d6c93bb015e9f25515baa1ac2c7",
+    "/de/runtime.2dc03f4903146b3a7463.js": "bf0ec83ab2b3f5e159c20cab0ff0249b9f695c02",
+    "/de/styles.fcacb6e683b50be236a5.css": "b85dbefdd15ea85d70b8af3a788b9fa3e4d01dc0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
