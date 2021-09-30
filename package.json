@@ -4,9 +4,13 @@
   "description": "",
   "main": "postbuild.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "http-server dist/apps/frontend/",
+    "purge": "node postbuild.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
 }
